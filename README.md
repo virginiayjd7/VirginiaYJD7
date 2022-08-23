@@ -1,9 +1,9 @@
 <p align='center'><img align="center" width='250' height='250' src="https://github.com/virginiayjd7/VirginiaYJD7/blob/main/NERWjmX1_400x400.jpg" alt="yasinfmd" /></p>
 
 <h1 align="center">Hi 👋, I'm Virginia </h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">DevOps Engineer jr and Backend Developer</h3>
 
-
+egresada en ingeniería de sistemas
 - 🔭 I’m currently working on **Bites**
 
 - 🌱 I’m currently learning **Flutter,Docker , Aws**
@@ -12,13 +12,14 @@
 
 - 💬 Ask me about **React,Vue,Node**
 
-- 📫 How to reach me **yefem.dalkilic@gmail.com**
+- 📫 How to reach me **yanaquinoh@upt.pe**
 
 - ⚡ Fun fact **code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yasin-dalkılıç-251b7b151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasin-dalkılıç-251b7b151" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/virginiayjd7/" target="blank"><img align="center" ion:social-linkedin-outline
+height="30" width="40" /></a>
 <a href="https://instagram.com/yasindlklc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasindlklc" height="30" width="40" /></a>
 <a href="https://medium.com/@yasinefemdalkilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yasinefemdalkilic" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCEsQUEuxqOtzYYSVJIUs22A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webci yasin" height="30" width="40" /></a>
