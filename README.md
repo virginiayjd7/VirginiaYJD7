@@ -1,6 +1,6 @@
-<p align='center'><img align="center" width='250' height='250' src="https://raw.githubusercontent.com/yasinfmd/yasinfmd/main/yasin.jpeg" alt="yasinfmd" /></p>
+<p align='center'><img align="center" width='250' height='250' src="https://github.com/virginiayjd7/VirginiaYJD7/blob/main/NERWjmX1_400x400.jpg" alt="yasinfmd" /></p>
 
-<h1 align="center">Hi 👋, I'm Yasin</h1>
+<h1 align="center">Hi 👋, I'm Virginia </h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinfmd" alt="yasinfmd" /></a> </p>
