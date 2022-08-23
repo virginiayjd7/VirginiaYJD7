@@ -6,7 +6,7 @@
 
 - 📝 Escribo regularmente en [https://ellaesvirginiaaquino.wordpress.com/)
 
-- 📫 How to reach me **yanaquinoh@upt.pe**
+- 📫 Como llegar a mi **yanaquinoh@upt.pe**
 
 - 🚀 Fun fact **code**
 
