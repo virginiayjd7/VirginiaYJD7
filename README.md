@@ -13,8 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/virginiayjd7/" target="blank"><img align="center" ion:social-linkedin-outline
-height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/virginiayjd7/" target="blank"><img align="center" src="https://api.iconify.design/ion:social-linkedin-outline.svg?color=%23174be8"height="30" width="40" /></a>
 <a href="https://instagram.com/yasindlklc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasindlklc" height="30" width="40" /></a>
 <a href="https://medium.com/@yasinefemdalkilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yasinefemdalkilic" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCEsQUEuxqOtzYYSVJIUs22A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webci yasin" height="30" width="40" /></a>
