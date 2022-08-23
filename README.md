@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/virginiayjd7/" target="blank"><img align="center" src="https://api.iconify.design/ion:social-linkedin-outline.svg?color=%23174be8"height="30" width="40" /></a>
 <a href="https://twitter.com/VirginiaYJD7" target="blank"><img align="center" src="https://api.iconify.design/ion:social-twitter-outline.svg?color=%23174be8" alt="yasindlklc" height="30" width="40" /></a>
-<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://api.iconify.design/vscode-icons:file-type-python.svg" alt="bootstrap" width="40" height="40"/> </a> 
