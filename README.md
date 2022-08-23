@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Virginia </h1>
 <h3 align="center">DevOps Engineer jr and Backend Developer</h3>
 
-- 🌱 I’m currently learning **Go,Python,Docker,vuejs , Aws**
+- 🌱 I’m currently learning **Go,Python,Docker,Vuejs,Ansible,Kubernetes, Aws**
 
 - 📝 I regularly write articles on [https://ellaesvirginiaaquino.wordpress.com/)
 
