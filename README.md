@@ -8,7 +8,7 @@
 
 - 📫 Como llegar a mi **yanaquinoh@upt.pe**
 
-- 🚀 Fun fact **code**
+- 🚀 De hecho es divertido **codear**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
