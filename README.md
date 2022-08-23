@@ -1,15 +1,15 @@
 <p align='center'><img align="center" width='250' height='250' src="https://github.com/virginiayjd7/VirginiaYJD7/blob/main/NERWjmX1_400x400.jpg" alt="yasinfmd" /></p>
 
 <h1 align="center">Hi 👋, I'm Virginia </h1>
-<h3 align="center">DevOps Engineer jr and Backend Developer</h3>
+<h3 align="center">Jr on DevOps Engineer and Backend Developer</h3>
 
-- 🌱 I’m currently learning **Go,Python,Docker,Vuejs,Ansible,Kubernetes, Aws**
+- 🌱💙 I’m currently learning **Go,Python,Docker,Vuejs,Ansible,Kubernetes, Aws**
 
-- 📝 I regularly write articles on [https://ellaesvirginiaaquino.wordpress.com/)
+- 📝 I regularly write on [https://ellaesvirginiaaquino.wordpress.com/)
 
 - 📫 How to reach me **yanaquinoh@upt.pe**
 
-- ⚡ Fun fact **code**
+- 🚀 Fun fact **code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
