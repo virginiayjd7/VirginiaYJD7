@@ -2,16 +2,26 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+       Soy egresada de la carrera profesional de ingeniería de sistemas, en la actualidad me encuentro formándome como DevOps Engineer jr y desarrollador Backend en C#, GO y Python, tengo conocimientos básicos en Frontend con vue.js y JavaScript.
+
+Tengo conocimientos básicos de contenedores de Docker y soy nueva explorando en Kubernetes.
+
+Además de conocimientos de GNU/Linux con distribuciones derivadas de CentOS y RedHat.
+
+Durante mi carrera universitaria desarrolle aplicaciones web con C#,SQL Server, MySQL y en la plataforma de .NET, .Net Core y aplicaciones de escritorio con Windows Forms.
+
+Mi meta es expandir mis conocimientos sobre Desarrollo web, DevOps ,Sistemas operativos y Microservicios . 
+
+Me fascina aprender sobre tecnología investigar ,oír podcast y leer material para fortalecer mis conocimientos, disfruto permanecer en continuo aprendizaje.
+
+En la actualidad me encuentro participando en un Bootcamp Devops y desarrollando una app dirigida al sector Agrario, practicando y reforzando en las habilidades previamente. 💙
     </p>
-    <h3>Installed CLI Plugins</h3>
+    <h3>My Skills</h3>
     <ul>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
     </ul>
-    <h3>Essential Links</h3>
+    <h3>My Projects</h3>
     <ul>
       <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
       <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
@@ -19,7 +29,7 @@
       <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
       <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
     </ul>
-    <h3>Ecosystem</h3>
+    <h3>My Blogs</h3>
     <ul>
       <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
       <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
