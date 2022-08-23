@@ -4,7 +4,7 @@
 
 - 💙 Actualmente estoy aprendiendo **Go,Python,Docker,Vuejs,Ansible,Kubernetes, Aws**
 
-- 📝 I regularly write on [https://ellaesvirginiaaquino.wordpress.com/)
+- 📝 Escribo regularmente en [https://ellaesvirginiaaquino.wordpress.com/)
 
 - 📫 How to reach me **yanaquinoh@upt.pe**
 
