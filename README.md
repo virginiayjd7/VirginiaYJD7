@@ -24,7 +24,6 @@
 <img src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=%23c23d3d" alt="mysql" width="40" height="40"/>
 <img src="https://api.iconify.design/logos:mysql.svg" alt="mysql" width="40" height="40"/>   
 <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgresql" width="40" height="40"/> 
-<img src="https://api.iconify.design/logos:postman-icon.svg" alt="postman" width="40" height="40"/> 
 <img src="https://api.iconify.design/vscode-icons:file-type-vue.svg" alt="vuejs" width="40" height="40"/>  
 <img src="https://api.iconify.design/logos:centos-icon.svg" alt="vuetify" width="40" height="40"/> 
 <img src="https://api.iconify.design/logos:redhat-icon.svg" alt="vuetify" width="40" height="40"/> 
