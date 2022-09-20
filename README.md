@@ -18,7 +18,6 @@
 <p align="left">
 <img src="https://api.iconify.design/vscode-icons:file-type-python.svg" alt="bootstrap" width="40" height="40"/>  
 <img src="https://api.iconify.design/vscode-icons:file-type-go.svg" alt="csharp" width="40" height="40"/> 
-<img src="https://api.iconify.design/ion:logo-javascript.svg?color=%23acb61b" alt="javascript" width="40" height="40"/> 
 <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgresql" width="40" height="40"/> 
 <img src="https://api.iconify.design/vscode-icons:file-type-vue.svg" alt="vuejs" width="40" height="40"/>  
 <img src="https://api.iconify.design/logos:redhat-icon.svg" alt="vuetify" width="40" height="40"/> 
