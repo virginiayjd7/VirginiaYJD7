@@ -25,5 +25,3 @@
 <img src="https://api.iconify.design/vscode-icons:file-type-docker2.svg" alt="docker" width="40" height="40"/> 
 </p>
 
-> Cuales son las principales diferencias entre Pods, Deployments, StatefulSets
-y DaemonSets?  En que casos usaria cada uno de ellos?
