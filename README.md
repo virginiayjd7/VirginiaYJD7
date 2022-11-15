@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Virginia </h1>
 <h3 align="center">🐛 Learn < DevOps | DevSecOps | SRE | Backend Developer >🎲</h3>
 
-- 💙 Actualmente estoy aprendiendo **Go,Python,Docker,Vuejs,Ansible,Kubernetes, AWS**
+- 💙 Actualmente estoy aprendiendo **Go,Python,Docker,Vuejs,Kubernetes**
 
 - 📝 Escribo regularmente en [)
 
