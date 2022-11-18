@@ -22,6 +22,5 @@
 <img src="https://api.iconify.design/vscode-icons:file-type-vue.svg"  width="30" height="30"/>  
 <img src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"  width="30" height="30"/> 
 <img src="https://api.iconify.design/vscode-icons:file-type-docker2.svg"  width="30" height="30"/> 
-  <iconify-icon icon="logos:debian"></iconify-icon>
 </p>
 
