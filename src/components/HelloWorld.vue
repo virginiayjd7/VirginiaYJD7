@@ -6,17 +6,12 @@
     </p>
     <h3>My Skills</h3>
     <ul>
-      <li><a href="">babel</a></li>
-      <li><a href="">eslint</a></li>
+      <li><a href="">Linux</a></li>
+      <li><a href="">Docker</a></li>
     </ul>
     <h3>My Projects</h3>
     <ul>
-      <li><a href="*" target="_blank" rel="noopener">Core Docs</a></li>
-      
-    </ul>
-    <h3>My Blogs</h3>
-    <ul>
-      <li><a href="*" target="_blank" rel="noopener">vue-router</a></li>
+      <li><a href="*" target="_blank" rel="noopener">AgroIte</a></li>
     </ul>
   </div>
 </template>
