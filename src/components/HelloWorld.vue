@@ -8,10 +8,12 @@
     <ul>
       <li><a href="">Linux</a></li>
       <li><a href="">Docker</a></li>
+      <li><a href="">Kubernetes</a></li>
     </ul>
     <h3>My Projects</h3>
     <ul>
-      <li><a href="*" target="_blank" rel="noopener">AgroIte</a></li>
+      <li><a href="https://github.com/virginiayjd7/Proyecto_Agroite_V2" target="_blank" rel="noopener">AgroIte</a></li>
+      <li><a href="https://github.com/virginiayjd7/PruebaGithub-Actions" target="_blank" rel="noopener"> PruebaGithub-Actions </a></li>
     </ul>
   </div>
 </template>
